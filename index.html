@@ -1,0 +1,109 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Demo App</title>
+</head>
+<body>
+    <h1>Hello, this is a demo app!</h1>
+</body>
+</html>
+<script>
+    // This script will run when the page loads
+    document.addEventListener('DOMContentLoaded', function() {
+        console.log('Demo app loaded successfully!');
+    });
+    // You can add more JavaScript functionality here
+    function greet() {
+        alert('Welcome to the demo app!');
+    }
+    // Call the greet function to show a welcome message
+    greet();
+</script>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        color: #333;
+        text-align: center;
+        padding: 50px;
+    }
+    h1 {
+        color: #4CAF50;
+    }           
+    /* Add more styles as needed */
+    body, h1 {
+        transition: all 0.3s ease;
+    }
+    body:hover {
+        background-color: #e0e0e0;
+    }
+    h1:hover {
+        color: #45a049;
+    }
+    /* Responsive design */
+    @media (max-width: 600px) {
+        body {
+            padding: 20px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+    }
+    /* Additional styles */
+    p {
+        font-size: 18px;
+        margin-top: 20px;
+    }   
+    a {
+        color: #2196F3;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    footer {
+        margin-top: 50px;
+        font-size: 14px;
+        color: #777;
+    }
+    footer a {
+        color: #2196F3;
+    }
+    footer a:hover {
+        text-decoration: underline;
+    }
+    /* Add a footer */
+    footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        background-color: #f1f1f1;
+    }
+    footer p {
+        margin: 0;
+    }
+    /* Add a link to the footer */
+    footer a {
+        color: #2196F3;
+        text-decoration: none;
+    }   
+    footer a:hover {
+        text-decoration: underline;
+    }
+    /* Add a button style */
+    button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+    button:hover {
+        background-color: #45a049;
+    }
+    /* Add a button to the body */
+</style>
