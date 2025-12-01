@@ -15,12 +15,7 @@
 
 # 🚀 **Professional Summary**
 
-Highly driven **SDET & QA Automation Engineer** with strong capabilities in building advanced UI/API automation frameworks, architecting CI/CD pipelines, and deploying scalable cloud-native environments. Skilled in **Selenium, TestNG, RestAssured, Docker, Kubernetes, Terraform, AWS**, and modern DevOps ecosystems.
-
-Experienced in designing robust automation systems, reducing test cycle duration, and elevating product reliability through smart QA engineering. Combines **developer-level coding skills** with a **quality-first mindset**, enabling faster, more stable releases.
-
-Known for **clean code, strong debugging, performance optimization**, and turning test automation into a strategic engineering asset.
-
+Results-driven SDET & QA Automation Engineer with strong skills in UI/API automation, CI/CD pipelines, and cloud-native DevOps. Experienced in Selenium, TestNG, RestAssured, Docker, Kubernetes, Terraform, AWS, and modern software development. Combines developer-level coding ability with a quality-focused mindset to build scalable automation frameworks, optimize pipelines, and improve release reliability.
 ---
 
 # 🛠 **Core Competencies**
